@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+To Complete the tutorial
+
+<?php 
+
+echo "Hello";
+
+?>
